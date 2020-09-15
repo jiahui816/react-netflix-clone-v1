@@ -13,3 +13,6 @@ To try out the code.
 1. Download it to your PC.
 2. npm init
 3. npm install
+
+Try it out ! 
+https://netflix-clone-97c45.web.app/
